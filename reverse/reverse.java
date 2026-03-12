@@ -1,7 +1,7 @@
 package reverse;
 import java.util.Scanner;
 public class reverse {
-
+//This programs reverses the digits of the given number
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("This program reverses the digits of given number ");
